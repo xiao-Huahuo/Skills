@@ -1,0 +1,33 @@
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+
+安装: 
+# Install CLI globally
+npm install -g uipro-cli
+
+# Go to your project
+cd /path/to/your/project
+
+# Install for your AI assistant
+uipro init --ai claude      # Claude Code
+uipro init --ai cursor      # Cursor
+uipro init --ai windsurf    # Windsurf
+uipro init --ai antigravity # Antigravity
+uipro init --ai copilot     # GitHub Copilot
+uipro init --ai kiro        # Kiro
+uipro init --ai codex       # Codex CLI
+uipro init --ai qoder       # Qoder
+uipro init --ai roocode     # Roo Code
+uipro init --ai gemini      # Gemini CLI
+uipro init --ai trae        # Trae
+uipro init --ai opencode    # OpenCode
+uipro init --ai continue    # Continue
+uipro init --ai codebuddy   # CodeBuddy
+uipro init --ai droid       # Droid (Factory)
+uipro init --ai kilocode    # KiloCode
+uipro init --ai warp        # Warp
+uipro init --ai augment     # Augment
+uipro init --ai all         # All assistants
+
+Claude和Cursor还可以全局安装:
+uipro init --ai claude --global   # Install to ~/.claude/skills/
+uipro init --ai cursor --global   # Install to ~/.cursor/skills/

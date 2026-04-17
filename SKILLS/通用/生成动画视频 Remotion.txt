@@ -1,0 +1,3 @@
+https://github.com/remotion-dev/remotion
+
+在根目录 npx skills add remotion-dev/skills

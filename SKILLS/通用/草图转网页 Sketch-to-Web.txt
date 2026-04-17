@@ -1,0 +1,3 @@
+https://github.com/Alpha961/sketch-to-web.git
+
+npx skills add https://github.com/Alpha961/sketch-to-web.git

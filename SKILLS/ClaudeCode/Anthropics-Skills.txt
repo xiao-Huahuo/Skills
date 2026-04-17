@@ -1,0 +1,15 @@
+https://github.com/anthropics/skills
+
+全局安装,打开claude终端输入 /plugin marketplace add anthropics/skills
+
+包含以下Skill:
+办公四件套 docx/pdf/xlsx/pptx
+自制SKILL skill-creator
+UI设计 canvas-design/algorithmic-art/brand-guidelines/theme-factory
+Web组件设计 web-artifacts-builder
+Web测试 webapp-testing
+GIF制作 slack-gif-creator
+内部通讯(周报生成) internal-comms
+MCP制造 mcp-builder
+Claude自己的API claude-api
+文档协同编写 doc-coauthoring
