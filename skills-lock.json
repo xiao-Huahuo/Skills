@@ -26,6 +26,11 @@
       "sourceType": "github",
       "computedHash": "a6a79c92a109339759d7b465f2d45fe11ce955e307a3e2c03fbcf4f9b624b77a"
     },
+    "sketch-to-web": {
+      "source": "Alpha961/sketch-to-web",
+      "sourceType": "github",
+      "computedHash": "8cc794e33a8c34cffdd96e994b9ed57759b2a17b7fb83dcb09bf8076759fed2d"
+    },
     "xlsx": {
       "source": "anthropics/skills",
       "sourceType": "github",
