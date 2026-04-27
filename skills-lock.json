@@ -1,10 +1,20 @@
 {
   "version": 1,
   "skills": {
+    "architecture-diagram": {
+      "source": "Cocoon-AI/architecture-diagram-generator",
+      "sourceType": "github",
+      "computedHash": "444827daf7ae82537af12a052b4b838759739760f71f945d83ff9603d0fdba61"
+    },
     "docx": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "computedHash": "150be87ff7b18f273ad07da303adb1cf2ca21cc3e76db7a2cf0373405178a278"
+    },
+    "gpt-image": {
+      "source": "wuyoscar/gpt_image_2_skill",
+      "sourceType": "github",
+      "computedHash": "a49a3d00cd6aeec3fd7bb0371686aadbe38e6a9d83d8d0023d6828125d1d7d2f"
     },
     "humanizer-zh": {
       "source": "op7418/Humanizer-zh",
@@ -30,6 +40,11 @@
       "source": "Alpha961/sketch-to-web",
       "sourceType": "github",
       "computedHash": "8cc794e33a8c34cffdd96e994b9ed57759b2a17b7fb83dcb09bf8076759fed2d"
+    },
+    "web-access": {
+      "source": "eze-is/web-access",
+      "sourceType": "github",
+      "computedHash": "e974d9cd3f55c72e9240b1a4ff3ba2b8a669e1d8e4b75ca8f0ad79a459444aa0"
     },
     "xlsx": {
       "source": "anthropics/skills",

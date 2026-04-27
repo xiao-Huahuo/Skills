@@ -1,0 +1,1 @@
+npx skills add httpsgithub.comdkyazzentwatwachatgpt-skills --skill ocr-document-processor

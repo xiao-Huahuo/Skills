@@ -1,0 +1,3 @@
+https://github.com/eze-is/web-access
+
+npx skills add eze-is/web-access
