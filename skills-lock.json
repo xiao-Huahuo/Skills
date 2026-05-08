@@ -21,10 +21,23 @@
       "sourceType": "github",
       "computedHash": "ad6b2b1f1433413c64f6403dc322d950da175a058f494291bd4399e77cb587c7"
     },
+    "paper-writing": {
+      "source": "hirogoing/PolyStudio",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "backend/skills/custom/paper-writing/SKILL.md",
+      "computedHash": "fc36e05f5f8ce232ca43633aca54930cab94c30069a63c553c7fa7cda9948d80"
+    },
     "pdf": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "computedHash": "37226d4220d844377e6b2a386c51a011df4cd130855ff0b80bcc22f9c28abd57"
+    },
+    "polystudio-client": {
+      "source": "hirogoing/PolyStudio",
+      "sourceType": "github",
+      "skillPath": "polystudio-client/SKILL.md",
+      "computedHash": "f5c496eeecf10ebb2dcabca175e94875211f3cd73c5d034ef1b3bce1b580e901"
     },
     "pptx": {
       "source": "anthropics/skills",

@@ -1,0 +1,3 @@
+https://skillsmp.com/zh/skills/hirogoing-polystudio-backend-skills-custom-paper-writing-skill-md
+
+npx skills add https://github.com/hirogoing/PolyStudio/tree/main/backend/skills/custom/paper-writing
