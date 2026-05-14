@@ -1,0 +1,3 @@
+https://github.com/google-labs-code/stitch-skill
+
+npx skills add https://github.com/google-labs-code/stitch-skills
