@@ -6,6 +6,12 @@
       "sourceType": "github",
       "computedHash": "444827daf7ae82537af12a052b4b838759739760f71f945d83ff9603d0fdba61"
     },
+    "benchmark-paper-template": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/benchmark-paper-template/SKILL.md",
+      "computedHash": "b62d4c64b39f5b25ae4920335c1a6ef09edf696af70498c3e9c2eed09a65e25c"
+    },
     "commit": {
       "source": "openai/symphony",
       "sourceType": "github",
@@ -18,6 +24,12 @@
       "skillPath": ".codex/skills/debug/SKILL.md",
       "computedHash": "eee526252b13c906c85055967cdc76a68535ed9fb61c8000c1df4df542d7783f"
     },
+    "deep-research": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/deep-research/SKILL.md",
+      "computedHash": "25b51f0cc62f89084cb805b2ffcf9fcddb7bde0aba7606b0960cae06132273d9"
+    },
     "design-md": {
       "source": "google-labs-code/stitch-skills",
       "sourceType": "github",
@@ -29,11 +41,23 @@
       "sourceType": "github",
       "computedHash": "150be87ff7b18f273ad07da303adb1cf2ca21cc3e76db7a2cf0373405178a278"
     },
+    "drawio-reconstruction": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/drawio-reconstruction/SKILL.md",
+      "computedHash": "76392c23b080adc6baa2ea6d7b3b8bd4f2c7f5a23e03ddf389ba42cfbdeaf754"
+    },
     "enhance-prompt": {
       "source": "google-labs-code/stitch-skills",
       "sourceType": "github",
       "skillPath": "skills/enhance-prompt/SKILL.md",
       "computedHash": "28c47bcbc0e8d81f48fbbbe41d227efe4018a32c5d4674b0d052a70d215072d3"
+    },
+    "figure-designer": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/figure-designer/SKILL.md",
+      "computedHash": "f85774ddb6594e1a2ddd92be8a35dab5a4cbbbde1273e000724cb5b1ec89d8ff"
     },
     "gpt-image": {
       "source": "wuyoscar/gpt_image_2_skill",
@@ -44,6 +68,18 @@
       "source": "op7418/Humanizer-zh",
       "sourceType": "github",
       "computedHash": "ad6b2b1f1433413c64f6403dc322d950da175a058f494291bd4399e77cb587c7"
+    },
+    "idea-evaluator": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/idea-evaluator/SKILL.md",
+      "computedHash": "acd096ddee7de25ce50e410334a14538ee579e6d4a3a7bd9b877a6bf8e35bcfd"
+    },
+    "intro-drafter": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/intro-drafter/SKILL.md",
+      "computedHash": "1ca38887af0c52726d5e0f92e025ebde66d81fc955dbc3b59ad97d870ae9e88d"
     },
     "land": {
       "source": "openai/symphony",
@@ -56,6 +92,18 @@
       "sourceType": "github",
       "skillPath": ".codex/skills/linear/SKILL.md",
       "computedHash": "3032c9dced1def4e8ae48263b37d403e1772172689d2422b3ab6a3c7683d8cc8"
+    },
+    "paper-polish": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/paper-polish/SKILL.md",
+      "computedHash": "3b6626c9f5de8814b47b0658d37a57faedd84ca74635d714046066922591f2d5"
+    },
+    "paper-writer": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/paper-writer/SKILL.md",
+      "computedHash": "a132b2b364c23ce46a25a897ac28b2f601fe806197054ace1040a15d62f3b4d7"
     },
     "paper-writing": {
       "source": "hirogoing/PolyStudio",
@@ -79,6 +127,12 @@
       "source": "anthropics/skills",
       "sourceType": "github",
       "computedHash": "2275e4d8dba1790d52f6619b3e2fed04edc948beef545a2ad18e4a1be644426d"
+    },
+    "pre-submission-reviewer": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/pre-submission-reviewer/SKILL.md",
+      "computedHash": "d34bcf9572a9ed8c88a05ccd947941ad66b065262408fffb677653443c6a5ff8"
     },
     "pull": {
       "source": "openai/symphony",
@@ -137,6 +191,18 @@
       "sourceType": "github",
       "skillPath": "skills/taste-design/SKILL.md",
       "computedHash": "3772ea408777070865890e10d693118baa1e1de14ee5bacdf6ab46fdea7359bb"
+    },
+    "tech-paper-template": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/tech-paper-template/SKILL.md",
+      "computedHash": "892577254d68f0f2d05f4c2fa01f9b2005209d3424b8b29ebbe0ba9e2be3a85c"
+    },
+    "vibe-research-workflow": {
+      "source": "HKUSTDial/Supervisor-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/vibe-research-workflow/SKILL.md",
+      "computedHash": "a56cb808bc15ee48a929b31f223e7549ef96a8912f8e3ecf64943b4081b0b8eb"
     },
     "web-access": {
       "source": "eze-is/web-access",
