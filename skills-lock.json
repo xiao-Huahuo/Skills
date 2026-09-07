@@ -55,11 +55,29 @@
       "skillPath": "skills/analytical-method-validation/SKILL.md",
       "computedHash": "f2f6d1822cc6d3cc1bb81c891db6d3f5b0d68b871b19f069a809cf7d1c4403a4"
     },
+    "animate": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/animate/SKILL.md",
+      "computedHash": "95a455620074de0cd5e57f74bf276645198d04b67ddcd33c783aa51d24063346"
+    },
+    "animation-vocabulary": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-vocabulary/SKILL.md",
+      "computedHash": "280c6688ef2568ad92f40c4dc638f0cc5cde0f49bdd6debd097410aa9945f44f"
+    },
     "anndata": {
       "source": "K-Dense-AI/scientific-agent-skills",
       "sourceType": "github",
       "skillPath": "skills/anndata/SKILL.md",
       "computedHash": "51cbe28710d67598a4f109008d7391f53a4508e44289468f95b19e84739266b7"
+    },
+    "apple-design": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/apple-design/SKILL.md",
+      "computedHash": "0d19303902efa64eace10e6b183eb29ef3220d424c1a7fd1eafc52adde216932"
     },
     "ara-compiler": {
       "source": "Orchestra-Research/AI-Research-SKILLs",
@@ -450,6 +468,12 @@
       "skillPath": "plugins/scientific-illustrator/skills/edit-powerpoint-live/SKILL.md",
       "computedHash": "ded91ac753844e385aa12fa7b6e6aa4ae448532031cd5ab19447481f0987c06f"
     },
+    "emil-design-eng": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "computedHash": "87067d79205fdedc6d682891027dd9c7335486c4b4dc2e785638941a9d2e6061"
+    },
     "enhance-prompt": {
       "source": "google-labs-code/stitch-skills",
       "sourceType": "github",
@@ -533,6 +557,12 @@
       "sourceType": "github",
       "skillPath": "skills/figure-designer/SKILL.md",
       "computedHash": "f85774ddb6594e1a2ddd92be8a35dab5a4cbbbde1273e000724cb5b1ec89d8ff"
+    },
+    "find-animation-opportunities": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-animation-opportunities/SKILL.md",
+      "computedHash": "c6b1d0f6d03a11f8772b1cef4ca5cc88301ae8641ac2697c85ffa87eb458e40a"
     },
     "fine-tuning-openvla-oft": {
       "source": "Orchestra-Research/AI-Research-SKILLs",
@@ -741,6 +771,12 @@
       "sourceType": "github",
       "skillPath": "01-model-architecture/litgpt/SKILL.md",
       "computedHash": "3425f70e972ff637ff18b78ae422dc1a818558c100df523e25a387fdd578a3f2"
+    },
+    "improve-animations": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/improve-animations/SKILL.md",
+      "computedHash": "9cd956e91139211efa5e17fc5e1675b9a3f711ef38cbc92aa8f3fa5b626b7e12"
     },
     "infographics": {
       "source": "K-Dense-AI/scientific-agent-skills",
@@ -1283,6 +1319,12 @@
       "skillPath": "skills/pi-agent/SKILL.md",
       "computedHash": "c9a7676270c8da7df3df0d9bf20329d770d837169ca3cb840b134f46125d4bc4"
     },
+    "pick-ui-library": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pick-ui-library/SKILL.md",
+      "computedHash": "1a0a6819d13fb5361cf5cdc923f46a1effc37cb61ecb908419eedb0e11f428fe"
+    },
     "pinecone": {
       "source": "Orchestra-Research/AI-Research-SKILLs",
       "sourceType": "github",
@@ -1408,6 +1450,12 @@
       "sourceType": "github",
       "skillPath": "skills/protocolsio-integration/SKILL.md",
       "computedHash": "7bddb3f8be62144640b6e80b2ba0923f8f6076d190ee036c2acd6394feed9813"
+    },
+    "prototype": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/prototype/SKILL.md",
+      "computedHash": "b1216a31a08fb02871f5b4ace7f31d0a1e2d9c86ddca74a37ed97d975f7bcaa2"
     },
     "publication-chart-skill": {
       "source": "Galaxy-Dawn/claude-scholar",
@@ -1617,6 +1665,12 @@
       "sourceType": "github",
       "skillPath": "skills/results-report/SKILL.md",
       "computedHash": "94b318fa5e21637690d9658f89aaf4c7a13ca0f5231385c969ccb8280fbbb482"
+    },
+    "review-animations": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/review-animations/SKILL.md",
+      "computedHash": "6f8d633d7884c1390eff7af4bfaf7a450e798f117e1d49a555e00819dc877f64"
     },
     "review-response": {
       "source": "Galaxy-Dawn/claude-scholar",
